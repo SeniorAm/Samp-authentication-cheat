@@ -36,7 +36,7 @@
 This file is related to the database connection and should be placed in the local XAMPP server folder. Typically, this file is placed in the `htdocs` folder of XAMPP to be accessed through a browser, allowing you to manage user login processes.
 
 ### Source/Spanelv1.lua
-This file should be placed in the `source` folder and inside the `Moon Loader` folder to function correctly. For more information and to download Moon Loader, use the link below:
+This file should be placed in the  the `Moon Loader` folder to function correctly. For more information and to download Moon Loader, use the link below:
 
 [Download Moon Loader](https://github.com/crygeo/Samp-MoonLoader)
 
